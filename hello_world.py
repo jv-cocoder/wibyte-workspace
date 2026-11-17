@@ -1,0 +1,1 @@
+print("It has to be hello world, even if AI takes over the world and coding!")
